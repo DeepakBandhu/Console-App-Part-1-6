@@ -1,0 +1,6 @@
+C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 2\Part 2\bin\Debug\Part 2.exe.config
+C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 2\Part 2\bin\Debug\Part 2.exe
+C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 2\Part 2\bin\Debug\Part 2.pdb
+C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 2\Part 2\obj\Debug\Part 2.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 2\Part 2\obj\Debug\Part 2.exe
+C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 2\Part 2\obj\Debug\Part 2.pdb
