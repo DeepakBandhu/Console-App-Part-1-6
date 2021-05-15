@@ -1,7 +1,0 @@
-C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 5\Part 5\bin\Debug\Part 5.exe.config
-C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 5\Part 5\bin\Debug\Part 5.exe
-C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 5\Part 5\bin\Debug\Part 5.pdb
-C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 5\Part 5\obj\Debug\Part 5.csprojAssemblyReference.cache
-C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 5\Part 5\obj\Debug\Part 5.csproj.CoreCompileInputs.cache
-C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 5\Part 5\obj\Debug\Part 5.exe
-C:\Users\Deepak\Desktop\Basic_C#_Programs\Part 5\Part 5\obj\Debug\Part 5.pdb
