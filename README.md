@@ -1,1 +1,1 @@
-# Console-App-Part-1-6
+This contains various apps that pertain to the C# project folder.
